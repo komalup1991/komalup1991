@@ -77,10 +77,10 @@ Go, gRPC vs REST, Infra-as-Code, EV data products, AWS ecosystem, Postgres parti
 ###
 
 <div align="center">
-  <a href="mailto:komal.upadhyay@northeastern.edu" target="_blank">
+  <a href="mailto:komal.upd04@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/komalupadhyay/" target="_blank">
+  <a href="[https://www.linkedin.com/in/komalupadhyay/](https://www.linkedin.com/in/komal-upadhyay-aa69335a/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
